@@ -28,6 +28,6 @@ public static void main(String[] args) {
 	v.add(123);
 	v.add(null);
 	System.out.println(v);
-	
+	//good
 }
 }
